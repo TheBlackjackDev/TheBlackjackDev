@@ -34,7 +34,7 @@ Outside of work, I enjoy football, gaming (Valorant, let’s play!), hanging out
 
 <h2 align="center">:seedling: My Skills</h2>
 
-<h4 align="center">:computer: Programming languages (and html)</h4>
+<h4 align="center">:computer: Programming languages (and HTML)</h4>
 
 <p align="center">
 <a href=""><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
