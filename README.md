@@ -1,4 +1,4 @@
-<h2 align="center">:wave: Hey!</h2>
+<h2 align="center">Hey!</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=theblackjackdev&color=blueviolet"/>
@@ -6,12 +6,17 @@
 
 <hr/>
 
-{
-
 * :black_joker: `My name is`: **Blackjack**,
 * :slot_machine: `I'm`: **21 years old**,
 * :heart: `I love`: **Hot cholcolate ☕️**
-}
+
+* About Me:
+
+* I'm a software engineer with a bachelor's degree in software engineering, soon starting a degree in Computer Engineering focused on Software Development. I began my journey at 16, modding Minecraft with Forge (never again—Fabric is the way). Later, I got into web development, teaching myself since my university mostly focused on Java (three years of just Java and awful professors—fun times).
+
+Before graduating, I interned at a medical device manufacturing plant, which turned into a full-time role when they decided to skip hiring a senior developer and gave me the chance instead. Now, I’m building a software development department from scratch, separating it from the IT department and establishing processes where none existed. My work focuses on project management, web development, MES applications, scripting, and data analysis tools in an IT/OT environment.
+
+Outside of work, I enjoy football, gaming (Valorant, let’s play!), hanging out with friends, and the occasional date. I’m also revisiting Minecraft modding with Fabric to rebuild my skills and diving into cybersecurity to tackle one of my weaknesses. I love meeting people! Feel free to DM me for a chat or some gaming!
 
 <br/>
 
@@ -49,4 +54,3 @@
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-512BD4.svg?logo=dotnet&logoColor=white"></a>
 </p>
-```
