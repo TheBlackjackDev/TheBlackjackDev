@@ -11,7 +11,6 @@
 * :black_joker: `My name is`: **Blackjack**,
 * :slot_machine: `I'm`: **21 years old**,
 * :heart: `I love`: **Hot cholcolate ☕️**
-* 
 }
 
 <br/>
