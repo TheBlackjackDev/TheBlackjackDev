@@ -6,12 +6,12 @@
 
 <hr/>
 
-<img align='right' src='https://i.pinimg.com/236x/f1/36/cd/f136cd1bb2c5c2bf6b6b8de476e123e7.jpg' width='25%'>  
+{
 
-{  
 * :black_joker: `My name is`: **Blackjack**,
 * :slot_machine: `I'm`: **21 years old**,
 * :heart: `I love`: **Hot cholcolate ☕️**
+* 
 }
 
 <br/>
